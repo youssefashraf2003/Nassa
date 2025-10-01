@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+# This line is critical to prevent uploading large library files
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor-specific files (optional but good practice)
+.vscode/
+.idea/
