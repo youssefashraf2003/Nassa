@@ -9,3 +9,5 @@ __pycache__/
 # Ignore IDE/editor-specific files (optional but good practice)
 .vscode/
 .idea/
+
+*.csv
