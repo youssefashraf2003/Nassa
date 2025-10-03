@@ -11,3 +11,4 @@ __pycache__/
 .idea/
 
 *.csv
+node_modules/
